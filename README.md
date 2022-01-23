@@ -92,4 +92,4 @@ You can use `SpawnGridMapSpawner` to allow objects to respawn after a certain ti
 
 ## Demo Project
 
-A demo project has been [added to Github](https://github.com/daleblackwood/SpawnGridMap) with a reference implementation. Check it out, but be sure to get the actual source from here as this will be more frequently updated.
+A demo project has been [added to Github](https://github.com/daleblackwood/SpawnGridMapDemo) with a reference implementation. Check it out, but be sure to get the actual source from here as this will be more frequently updated.
