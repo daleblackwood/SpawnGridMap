@@ -3,7 +3,7 @@ class_name SpawnGridMapSpawner
 
 export(Array, PackedScene) var scenes = [null]
 export(bool) var use_respawn = false
-export(float, 0.0, 10.0) var respawn_time = 0.0
+export(float, 0.0, 10.0) var respawn_time = 5.0
 export(float) var respawn_distance = 5.0
 export(bool) var spawn_random = false
 export(int) var random_seed = 0
